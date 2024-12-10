@@ -13,3 +13,4 @@ export { default as plugins } from './core.plugins.js';
 export { default as registry } from './core.registry.js';
 export { default as Scale } from './core.scale.js';
 export { default as Ticks } from './core.ticks.js';
+
